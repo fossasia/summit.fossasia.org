@@ -311,7 +311,7 @@ ul {
   margin: 0px;
   padding: 0px;
 }
-@media all and (max-width: 767px) {
+@media all and (max-width: 995px) {
   h1 {
     font-size: 24px;
     line-height: 28px;
@@ -751,7 +751,7 @@ nav .container {
   margin-bottom: 32px;
   left: 24px;
 }
-@media all and (max-width: 768px) {
+@media all and (max-width: 995px) {
   nav {
     max-height: 67px;
     overflow: hidden;
@@ -855,7 +855,7 @@ nav .container {
   background: #fff;
   color: #0072bc;
 }
-@media all and (max-width: 767px) {
+@media all and (max-width: 995px) {
   .hero-slider .btn-hollow {
     display: none;
   }
@@ -880,20 +880,20 @@ nav .container {
 .register-header h1 {
   margin-bottom: 24px !important;
 }
-@media all and (max-width: 768px) {
+@media all and (max-width: 995px) {
   .register-header form.register .form-name,
   .register-header form.register .form-email {
     max-width: 100%;
     width: 100%;
   }
 }
-@media all and (min-width: 321px) and (max-width: 767px) and (orientation: landscape) {
+@media all and (min-width: 321px) and (max-width: 995px) and (orientation: landscape) {
   .register-header form.register .form-name,
   .register-header form.register .form-email {
     width: 50%;
   }
 }
-@media all and (max-width: 767px) {
+@media all and (max-width: 995px) {
   .hero-slide .logo {
     max-width: 100px;
   }
@@ -962,7 +962,7 @@ nav .container {
 .strip-divider a:hover {
   color: #fff !important;
 }
-@media all and (max-width: 767px) {
+@media all and (max-width: 995px) {
   .strip-divider {
     padding: 72px 0px;
   }
@@ -993,7 +993,7 @@ nav .container {
   font-weight: 600;
   margin-bottom: 24px;
 }
-@media all and (max-width: 768px) {
+@media all and (max-width: 995px) {
   .countdown-header img,
   .countdown-divider img,
   .video-header img {
@@ -1040,7 +1040,7 @@ nav .container {
 .section-header i:last-of-type {
   margin-right: 0px;
 }
-@media all and (max-width: 767px) {
+@media all and (max-width: 995px) {
   .countdown {
     margin-top: 48px;
   }
@@ -1116,7 +1116,7 @@ nav .container {
 .call-to-action a:last-of-type i {
   margin-right: 0px;
 }
-@media all and (max-width: 768px) {
+@media all and (max-width: 995px) {
   .call-to-action {
     padding: 72px 0px;
   }
@@ -1138,7 +1138,7 @@ nav .container {
   top: 0px;
   height: 100%;
 }
-@media all and (max-width: 767px) {
+@media all and (max-width: 995px) {
   .image-with-text {
     height: auto;
     padding: 72px 0px;
@@ -1209,7 +1209,7 @@ nav .container {
   background-color: #005993;
   right: 0px;
 }
-@media all and (max-width: 768px) {
+@media all and (max-width: 995px) {
   .block-content {
     margin-bottom: 144px;
     overflow: hidden;
@@ -1226,7 +1226,7 @@ nav .container {
     top: 50%;
   }
 }
-@media all and (max-width: 767px) {
+@media all and (max-width: 995px) {
   .block-content i {
     margin-bottom: 30px;
   }
@@ -1316,7 +1316,7 @@ nav .container {
   margin-bottom: 18px;
   font-weight: 600;
 }
-@media all and (max-width: 767px) {
+@media all and (max-width: 995px) {
   .speaker-with-bio .speaker {
     width: 100%;
   }
@@ -1351,7 +1351,7 @@ nav .container {
   display: inline-block;
   margin-bottom: 32px;
 }
-@media all and (max-width: 767px) {
+@media all and (max-width: 995px) {
   .topic h3 {
     display: inline-block;
     position: relative;
@@ -1367,7 +1367,7 @@ nav .container {
   padding: 12px 0px;
   font-size: 16px;
 }
-@media all and (min-width: 321px) and (max-width: 767px) and (orientation: landscape) {
+@media all and (min-width: 321px) and (max-width: 995px) and (orientation: landscape) {
   .speakers-row .col-sm-6 {
     width: 50%;
     float: left !important;
@@ -1389,13 +1389,13 @@ nav .container {
   margin-top: 32px;
   margin-right: 16px;
 }
-@media all and (max-width: 768px) {
+@media all and (max-width: 995px) {
   .inline-video iframe {
     height: 350px;
     margin-top: 42px;
   }
 }
-@media all and (max-width: 767px) {
+@media all and (max-width: 995px) {
   .inline-video iframe {
     height: 200px;
     margin-top: 30px;
@@ -1404,7 +1404,7 @@ nav .container {
     margin-top: 18px;
   }
 }
-@media all and (min-width: 321px) and (max-width: 767px) and (orientation: landscape) {
+@media all and (min-width: 321px) and (max-width: 995px) and (orientation: landscape) {
   .inline-video iframe {
     height: 250px;
   }
@@ -1473,7 +1473,7 @@ nav .container {
     padding-right: 48px;
   }
 }
-@media all and (max-width: 767px) {
+@media all and (max-width: 995px) {
   .schedule-with-text .btn,
   .contained-gallery .btn {
     margin-bottom: 32px;
@@ -1531,7 +1531,7 @@ nav .container {
   margin: 0px auto;
   margin-bottom: 12px;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 995px) {
   .gallery-header .logo {
     max-width: 200px;
   }
@@ -1609,7 +1609,7 @@ nav .container {
     width: 33.333333%;
   }
 }
-@media all and (max-width: 767px) {
+@media all and (max-width: 995px) {
   .instagram,
   .lightbox-gallery {
     padding: 144px 0px;
@@ -1655,7 +1655,7 @@ nav .container {
     padding: 200px 0px;
   }
 }
-@media all and (max-width: 768px) {
+@media all and (max-width: 995px) {
   .contained-gallery .instagram,
   .contained-gallery .lightbox-gallery {
     margin-bottom: 32px;
@@ -1704,7 +1704,7 @@ nav .container {
 .pricing-option:hover {
   background: #ededed;
 }
-@media all and (min-width: 321px) and (max-width: 767px) and (orientation: landscape) {
+@media all and (min-width: 321px) and (max-width: 995px) and (orientation: landscape) {
   .pricing-options .col-sm-6 {
     width: 50%;
     float: left;
@@ -1796,7 +1796,7 @@ p.question {
   display: inline-block;
   margin-left: 12px;
 }
-@media all and (min-width: 321px) and (max-width: 767px) and (orientation: landscape) {
+@media all and (min-width: 321px) and (max-width: 995px) and (orientation: landscape) {
   .visitor-info .col-sm-4 {
     width: 50%;
     float: left;
@@ -1870,7 +1870,7 @@ p.question {
 .tweets-feed .timePosted {
   display: none;
 }
-@media all and (max-width: 767px) {
+@media all and (max-width: 995px) {
   .tweets-feed .tweet {
     font-size: 20px;
     line-height: 26px;
@@ -1997,7 +1997,7 @@ p.question {
   color: #0072bc;
   border-color: #0072bc;
 }
-@media all and (min-width: 321px) and (max-width: 767px) and (orientation: landscape) {
+@media all and (min-width: 321px) and (max-width: 995px) and (orientation: landscape) {
   .sponsors .col-sm-6 {
     width: 50%;
     float: left;
@@ -2122,7 +2122,7 @@ input.error {
 form .field-error {
   background: #D74B4B !important;
 }
-@media all and (max-width: 767px) {
+@media all and (max-width: 995px) {
   form.register input,
   form.register .select-holder {
     width: 100% !important;
@@ -2132,7 +2132,7 @@ form .field-error {
     margin-bottom: 24px;
   }
 }
-@media all and (min-width: 321px) and (max-width: 767px) and (orientation: landscape) {
+@media all and (min-width: 321px) and (max-width: 995px) and (orientation: landscape) {
   form.register .col-sm-6 {
     width: 50%;
     float: left;
@@ -2175,7 +2175,7 @@ form .field-error {
   margin-right: 24px;
   margin-top: 12px;
 }
-@media all and (max-width: 767px) {
+@media all and (max-width: 995px) {
   .error-page i {
     display: none;
   }
@@ -2220,7 +2220,7 @@ form .field-error {
   right: 0px;
   top: -12px;
 }
-@media all and (max-width: 767px) {
+@media all and (max-width: 995px) {
   .footer .text-right {
     text-align: left !important;
   }
@@ -2257,7 +2257,7 @@ footer.short {
 footer.short .top-border {
   height: 1px !important;
 }
-@media all and (max-width: 767px) {
+@media all and (max-width: 995px) {
   footer.classic div {
     margin-bottom: 18px;
   }
