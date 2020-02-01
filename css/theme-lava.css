@@ -1223,6 +1223,7 @@ nav .container {
 }
 .image-with-text h1 {
   margin-bottom: 24px;
+  margin-top: 50px;
 }
 .side-image {
   padding: 0px;
@@ -1993,7 +1994,7 @@ p.question {
   color: #fff;
   position: relative;
   overflow: hidden;
-  height: 600px;
+  /* height: 600px; */
   -webkit-transform-style: preserve-3d;
   -moz-transform-style: preserve-3d;
   transform-style: preserve-3d;
