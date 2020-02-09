@@ -2,7 +2,9 @@
   overflow:hidden;
   padding-bottom:50%;
   position:relative;
-  height:0;
+  height:10px;
+  width:10px;
+  left:0;
 }
 .map-responsive iframe{
   left:0;
@@ -31,7 +33,7 @@
 .schedule a:hover {
   color: #E12B00;
   text-decoration: underline;
-  border: none;
+  border: 2px solid #fff000;
 }
 
 .schedule a:active {
@@ -50,6 +52,7 @@
   color: #FFFFFF;
   line-height: 25px;
   font-size: 20px;
+letter-spacing:2px;
   transition: opacity 0.2s linear;
   margin-bottom: 20px;
   height: 250px;
@@ -84,9 +87,10 @@
 .newsletter-email{
   padding-left: 5px;
   padding-right: 5px;
+padding-top:5px;
 }
 .newsletter-email input{
-  border-radius: 0px;
+  border-radius: 10%;
 }
 .newsletter-submit{
   padding-left: 0px;
