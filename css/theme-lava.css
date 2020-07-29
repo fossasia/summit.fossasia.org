@@ -1881,8 +1881,12 @@ p.question {
 /*!
 // Visitor Info
 // --------------------------------------------------*/
+.post {
+  height: 550px !important;
+}
+
 .info-box {
-  margin-bottom: 36px;
+  margin-bottom: 36px !important;
   position: relative;
   overflow: hidden;
 }
