@@ -1,5 +1,5 @@
 Site for the annual FOSSASIA Summit 
 
-Apr 7-9, 2021 Online
+Apr 13-15, 2023 Online
 
 https://summit.fossasia.org
