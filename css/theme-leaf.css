@@ -1143,13 +1143,21 @@ nav .container {
     height: auto;
     padding: 72px 0px;
   }
+
+  
   .image-with-text .vertical-align {
     top: 0px;
     -webkit-transform: translateY(0px);
     -ms-transform: translateY(0px);
     transform: translateY(0px);
   }
-}
+
+  @media all and (min-width: 321px) and (max-width: 767px) and (orientation: landscape) {
+    .speakers-row .col-sm-6 {
+      width: 30%;
+      float: left !important;
+    }
+}}
 /*!
 // Promo Blocks
 // --------------------------------------------------*/
