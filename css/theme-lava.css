@@ -461,6 +461,15 @@ p a,
   background-size: cover !important;
   background-position: 50% 50% !important;
 }
+/* #### Tablets Portrait or Landscape #### */
+@media screen and (min-device-width: 768px) and (max-device-width: 1024px){
+  .background-image-holder{
+    height: 100%;
+  }
+  .testimonials-slider .flex-active-slide{
+    margin-top: 30px;
+  }
+}
 .background-image-holder img {
   display: none;
 }
