@@ -298,7 +298,8 @@ span.lead {
 }
 .uppercase {
   text-transform: uppercase;
-  letter-spacing: 1px;
+  letter-spacing: 2px;
+  line-height: 1.2;
   display: inline-block;
   margin-right: -1px;
 }
@@ -824,7 +825,7 @@ nav .container {
   margin-bottom: 32px;
   left: 24px;
 }
-@media all and (max-width: 768px) {
+@media all and (max-width: 990px) {
   nav {
     max-height: 67px;
     overflow: hidden;
