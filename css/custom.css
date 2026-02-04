@@ -162,6 +162,9 @@
 .lightbox-gallery{
    margin-top:10px;
   }
+  .sub-heading-font {
+    font-size: 20px;
+  }
 }
 @media screen and (max-width: 560px){
   .price{
